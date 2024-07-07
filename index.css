@@ -1,3 +1,7 @@
-h1 {
-    color : red
+h1{
+    color : red;
+    margin : 2px;
+    background-color: black;
+    padding: 2px;
+
 }
